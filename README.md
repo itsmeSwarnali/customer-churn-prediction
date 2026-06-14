@@ -40,7 +40,7 @@ Logistic Regression achieved the best overall performance.
 
 ## Feature Importance
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](images/feature_imp.png)
 
 ## Key Business Recommendations
 
