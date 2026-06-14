@@ -38,6 +38,10 @@ Key findings:
 
 Logistic Regression achieved the best overall performance.
 
+## Feature Importance
+
+![Feature Importance](images/feature_importance.png)
+
 ## Key Business Recommendations
 
 - Convert month-to-month customers into long-term contracts.
