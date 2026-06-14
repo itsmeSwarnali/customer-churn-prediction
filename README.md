@@ -30,7 +30,7 @@ Telco Customer Churn Dataset
 
 ![Churn vs Internet Service](Images/churn_vs_internet_service.png)
 
-![Churn vs Contract Type](Images/churn_vs_contract_type.png)
+![Churn Rate vs Monthly Charge Rate](Images/churn_rate_vs_monthly_charge_rate.png)
 
 
 Key findings:
