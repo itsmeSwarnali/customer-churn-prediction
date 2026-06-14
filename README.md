@@ -18,6 +18,10 @@ Telco Customer Churn Dataset
 
 ## Exploratory Data Analysis
 
+## Churn Distribution
+
+![Churn Distribution](Images/churn_distribution.png)
+
 Key findings:
 
 - Customers on month-to-month contracts have significantly higher churn rates.
