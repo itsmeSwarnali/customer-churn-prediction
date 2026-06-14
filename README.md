@@ -51,7 +51,7 @@ Key findings:
 
 ## Best Model
 
-Logistic Regression achieved the best overall performance.
+Logistic Regression achieved the best overall performance with a ROC-AUC score of **0.8454**..
 
 ## Feature Importance
 
