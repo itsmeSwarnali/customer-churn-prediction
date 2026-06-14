@@ -24,7 +24,7 @@ Telco Customer Churn Dataset
 
 ## Payment Method vs Churn
 
-![Churn vs Payment Type](Images/churn vs Payment Type.png)
+![Churn vs Payment Type](Images/churn_vs_Payment_Type.png)
 
 Key findings:
 
