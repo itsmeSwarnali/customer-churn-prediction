@@ -22,6 +22,10 @@ Telco Customer Churn Dataset
 
 ![Churn Distribution](Images/churn_distribution.png)
 
+## Payment Method vs Churn
+
+![Churn vs Payment Type](Images/churn vs Payment Type.png)
+
 Key findings:
 
 - Customers on month-to-month contracts have significantly higher churn rates.
