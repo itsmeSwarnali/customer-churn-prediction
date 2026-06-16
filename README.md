@@ -18,6 +18,21 @@ Telco Customer Churn Dataset
 
 ## Exploratory Data Analysis
 
+## Churn Distribution
+
+![Churn Distribution](Images/churn_distribution.png)
+
+## Payment Method vs Churn
+
+![Churn vs Payment Type](Images/churn_vs_Payment_Type.png)
+
+![Churn vs Contract Type](Images/churn_vs_contract_type.png)
+
+![Churn vs Internet Service](Images/churn_vs_internet_service.png)
+
+![Churn Rate vs Monthly Charge Rate](Images/churn_rate_vs_monthly_charge_rate.png)
+
+
 Key findings:
 
 - Customers on month-to-month contracts have significantly higher churn rates.
@@ -36,7 +51,11 @@ Key findings:
 
 ## Best Model
 
-Logistic Regression achieved the best overall performance.
+Logistic Regression achieved the best overall performance with a ROC-AUC score of **0.8454**..
+
+## Feature Importance
+
+![Feature Importance](Images/feature_imp.png)
 
 ## Key Business Recommendations
 
