@@ -1,5 +1,7 @@
 # customer-churn-prediction
 Customer Churn Prediction | Machine Learning, FastAPI & Docker
+An end-to-end machine learning project that predicts customer churn, exposes predictions through a FastAPI REST API, and is fully containerized using Docker.
+
 
 ## Run with Docker
 
