@@ -1,5 +1,5 @@
 # customer-churn-prediction
-End-to-End Customer Churn Prediction using Machine Learning, EDA, and Model Interpretation.
+Customer Churn Prediction | Machine Learning, FastAPI & Docker
 
 ## Run with Docker
 
