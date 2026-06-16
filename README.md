@@ -3,15 +3,28 @@ Customer Churn Prediction | Machine Learning, FastAPI & Docker
 An end-to-end machine learning project that predicts customer churn, exposes predictions through a FastAPI REST API, and is fully containerized using Docker.
 
 
-## Run with Docker
+## Run the APP with Docker
+### 1. Clone the repository
 
 ```bash
+git clone https://github.com/itsmeSwarnali/customer-churn-prediction.git
+cd customer-churn-prediction
+```
+
+2. Build Docker image
+```bash
 docker build -t churn-api .
+```
+
+3. Run Docker container
+```bash  
 docker run -p 8000:8000 churn-api
 ```
 
-open: 
+4. Open the API docs 
 http://localhost:8000/docs
+
+Then test /predict from Swagger UI.
 
 ![The successful Swagger response](Images/predict.png)
 
