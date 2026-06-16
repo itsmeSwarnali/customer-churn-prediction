@@ -8,9 +8,7 @@ docker build -t churn-api .
 
 docker run -p 8000:8000 churn-api
 
-open:
-[http://0.0.0.0:8000/docs](http://localhost:8000/docs)
-
+open: http://localhost:8000/docs
 
 ![The successful Swagger response](Images/predict.png)
 
