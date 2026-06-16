@@ -12,6 +12,9 @@ open:
 [http://0.0.0.0:8000/docs](http://localhost:8000/docs)
 
 
+![The successful Swagger response](Images/predict.png)
+
+
 # Customer Churn Prediction
 
 ## Business Problem
