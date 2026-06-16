@@ -5,6 +5,7 @@ End-to-End Customer Churn Prediction using Machine Learning, EDA, and Model Inte
 
 bash
 docker build -t churn-api .
+
 docker run -p 8000:8000 churn-api
 
 open:
