@@ -5,3 +5,7 @@ openpyxl
 seaborn
 matplot
 scikit-learn
+fastapi 
+uvicorn
+joblib
+pydantic
